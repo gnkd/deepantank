@@ -5,7 +5,7 @@ $param1 = $_GET["temp"];
 $param2 = $_GET["hum"];
 
 $url = 'https://deepan9894.firebaseio.com/'; 
-$token = 'Paste Tokoken Firebase'; 
+$token = 'oLs4nokIPv9c1dSp9j1r5YKoekRJblFXFHnnun2O'; 
 
 $DEFAULT_PATH = '/DTproduction';
 
