@@ -4,7 +4,7 @@ require require 'firebase-php-master/src/firebaseLib.php';
 $param1 = $_GET["temp"];
 $param2 = $_GET["hum"];
 
-$url = 'https://Paste url firebase.firebaseio.com/'; 
+$url = 'https://deepan9894.firebaseio.com/'; 
 $token = 'Paste Tokoken Firebase'; 
 
 $DEFAULT_PATH = '/DTproduction';
