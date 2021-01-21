@@ -19,5 +19,5 @@ $_devicestatus= array(
 $firebase = new \Firebase\FirebaseLib($url, $token);
 $firebase->update($DEFAULT_PATH, $_devicestatus);
 
-print("Update Berhasil");
+print("Update done");
 ?>
