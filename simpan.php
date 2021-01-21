@@ -4,8 +4,8 @@ require require 'firebase-php-master/src/firebaseLib.php';
 $param1 = $_GET["temp"];
 $param2 = $_GET["hum"];
 
-$url = 'https://deepan9894.firebaseio.com/'; 
-$token = 'oLs4nokIPv9c1dSp9j1r5YKoekRJblFXFHnnun2O'; 
+$url = 'https://tanknew-f338e-default-rtdb.firebaseio.com/'; 
+$token = '53FgLWaFokn4PXu74JfbDYPWKOkOEBLhZ5UXox7c'; 
 
 $DEFAULT_PATH = '/DTproduction';
 
